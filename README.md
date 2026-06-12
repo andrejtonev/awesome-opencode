@@ -1003,6 +1003,15 @@ Also available for bat and Ghostty in the same repository.
 </details>
 
 <details>
+  <summary><b>Opencode Chat Export</b> <img src="https://badgen.net/github/stars/jjserenity/opencode-chat-export" height="14"/> - <i>MCP server to export chat history to Markdown</i></summary>
+  <blockquote>
+    MCP server that exports OpenCode chat history to Markdown files with tool calls, reasoning, and cost summaries. Export current session, specific sessions by ID, or bulk exports. pip installable.
+    <br><br>
+    <a href="https://github.com/jjserenity/opencode-chat-export">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode DDEV</b> <img src="https://badgen.net/github/stars/JUVOJustin/opencode-ddev" height="14"/> - <i>DDEV container wrapper</i></summary>
   <blockquote>
     Wraps bash commands to execute inside the DDEV container (Docker-based PHP development environments).
