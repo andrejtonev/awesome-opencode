@@ -413,6 +413,15 @@
 </details>
 
 <details>
+  <summary><b>Opencode Log Sanitizer</b> <img src="https://badgen.net/github/stars/errhythm/opencode-log-sanitizer" height="14"/> - <i>Sanitizes pasted logs by redacting long strings, JWTs, bcrypt hashes, and base64 blobs</i></summary>
+  <blockquote>
+    Sanitizes pasted logs before sending them to AI by redacting long quoted strings, JWT tokens, bcrypt hashes, and base64 blobs to reduce token usage and remove irrelevant noise.
+    <br><br>
+    <a href="https://github.com/errhythm/opencode-log-sanitizer">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Mem</b> <img src="https://badgen.net/github/stars/tickernelz/opencode-mem" height="14"/> - <i>Persistent memory with vector database</i></summary>
   <blockquote>
     A persistent memory system for AI coding agents that enables long-term context retention across sessions using local vector database technology. Features dual memory scopes, web interface, auto-capture system, and multi-provider AI support.
@@ -553,6 +562,18 @@
     Turning raw OpenCode terminal logs into cozy 2D pixel office chaos. Watch your agents work, idle, and celebrate success in a bustling virtual office.
     <br><br>
     <a href="https://github.com/psinetron/opencode-visualiser">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>OpenCode Workaholic</b> <img src="https://badgen.net/github/stars/RoderickQiu/opencode-workaholic" height="14"/> - <i>Enforce mandatory working time and prevents premature "done" responses</i></summary>
+  <blockquote>
+    - AI has an early-exit problem: it says "done" at 30 seconds while edge cases are untested, bugs remain, and docs are missing. 
+- Workaholic enforces mandatory working time for AI until the timer hits zero.
+- Blocks premature "done" responses until timer expire, and require AI to call checkout() to end the task.
+
+    <br><br>
+    <a href="https://github.com/RoderickQiu/opencode-workaholic">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -1093,6 +1114,15 @@ Also available for bat and Ghostty in the same repository.
 </details>
 
 <details>
+  <summary><b>brood-box</b> <img src="https://badgen.net/github/stars/stacklok/brood-box" height="14"/> - <i>Hardware-isolated microVMs for coding agents</i></summary>
+  <blockquote>
+    Run AI coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization.
+    <br><br>
+    <a href="https://github.com/stacklok/brood-box">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>CLI Proxy API</b> <img src="https://badgen.net/github/stars/router-for-me/CLIProxyAPI" height="14"/> - <i>Multi-model proxy</i></summary>
   <blockquote>
     A proxy server providing compatible API interfaces for multiple model CLIs.
@@ -1269,6 +1299,15 @@ Also available for bat and Ghostty in the same repository.
     A fan-made web and desktop interface for OpenCode with VS Code extension, multiple sessions, and git worktrees management.
     <br><br>
     <a href="https://github.com/btriapitsyn/openchamber">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Opencode A2A</b> <img src="https://badgen.net/github/stars/Intelligent-Internet/opencode-a2a" height="14"/> - <i>Full A2A Protocol support for OpenCode.</i></summary>
+  <blockquote>
+    A production-ready A2A Protocol implementation that exposes OpenCode as a standardized Agent-to-Agent service, enabling seamless cross-agent collaboration and automated workflows.
+    <br><br>
+    <a href="https://github.com/Intelligent-Internet/opencode-a2a">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
