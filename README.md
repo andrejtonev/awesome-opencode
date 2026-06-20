@@ -476,6 +476,15 @@
 </details>
 
 <details>
+  <summary><b>Opencode TTS</b> <img src="https://badgen.net/github/stars/StefanoChiodino/opencode-tts" height="14"/> - <i>Voice summaries for idle responses</i></summary>
+  <blockquote>
+    Speaks assistant responses aloud when a session goes idle, with summary or full-text modes and local TTS backends.
+    <br><br>
+    <a href="https://github.com/StefanoChiodino/opencode-tts">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode update notifier</b> <img src="https://badgen.net/github/stars/tim-hilde/opencode-update-notifier" height="14"/> - <i>Notify about plugin updates.</i></summary>
   <blockquote>
     Checks if your pinned plugins have newer versions available and shows a notification.
