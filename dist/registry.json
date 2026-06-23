@@ -24,6 +24,18 @@
     "tags": []
   },
   {
+    "productId": "gem-team",
+    "type": "agents",
+    "displayName": "Gem Team",
+    "repoUrl": "https://github.com/mubaidr/gem-team",
+    "tagline": "Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.",
+    "description": "Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "opencode-agents",
     "type": "agents",
     "displayName": "Opencode Agents",
